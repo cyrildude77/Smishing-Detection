@@ -18,12 +18,6 @@ data/ → Contains SMS datasets for training.
 models/ → Saved trained models.
 requirements.txt → Dependencies for the project.
 🔧 Setup & Usage
-Clone the repository:
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/smishing-detection.git
-cd smishing-detection
 Install dependencies:
 bash
 Copy
